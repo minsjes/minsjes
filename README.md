@@ -1,16 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=300&section=header&text=Min%20Je&fontSize=90" />
 
 ## 🚀 Skills
-### Languages & 
+### Backend & Infrastructure
 <div>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <p>
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1ㅈㄷ?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+  </p>
   
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -28,13 +38,7 @@
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### Server
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=Podman&logoColor=white" />
-</div>
+
 
 ### Tools
 <div>
