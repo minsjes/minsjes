@@ -6,6 +6,23 @@
 </p>
 <br/>
 
+<!-- <div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=MIN+JE" />
+  
+  <p align="center">
+    <strong>Backend & Infrastructure Engineer</strong><br/>
+    <small>Building robust and scalable systems with Java & Cloud Architecture</small>
+  </p>
+  
+  <p align="center">
+    <a href="mailto:님의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="님의블로그주소"><img src="https://img.shields.io/badge/Blog-119311?style=flat-square&logo=velog&logoColor=white"/></a>
+    <a href="님의링크드인주소"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  </p>
+  <br/>
+</div> -->
+
 ## 🚀 Skills
 ### Backend & Infrastructure
 <div>
@@ -13,6 +30,8 @@
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
