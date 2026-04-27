@@ -21,7 +21,8 @@
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
   </p>
 </div>  
-  
+<br/>
+
 ### Full-Stack Capability  
 <div>
   <p>
@@ -35,6 +36,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
 </div>
+<br/>
 
 ### Tools
 <div>
