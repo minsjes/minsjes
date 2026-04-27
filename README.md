@@ -73,8 +73,9 @@
 <br/>
 
 ## 📞 Contact
-<p align="left">
-  <a href="minmj414@naver"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
+<p>
+  <a href="mailto:minmj414@naver"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:minssjess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ![Minje's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsjes&theme=github_dark&show_icons=true)
