@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=300&section=header&text=Min%20Je&fontSize=90" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=300&section=header&text=Min%20Je&fontSize=90" /> -->
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007396&height=150&section=header&text=MIN%20JE&fontSize=70&fontColor=ffffff&animation=twinkling" />
+</p>
+<br/>
 
 ## 🚀 Skills
 ### Backend & Infrastructure
