@@ -1,86 +1,51 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFFFFF&height=300&section=header&text=Min%20Je&fontSize=90" /> -->
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007396&height=150&section=header&text=MIN%20JE&fontSize=70&fontColor=ffffff&animation=twinkling" />
-</p>
-<br/>
-
-<!-- <div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=007396&center=true&vCenter=true&width=600&lines=MIN+JE" />
-  
-  <p align="center">
-    <strong>Backend & Infrastructure Engineer</strong><br/>
-    <small>Building robust and scalable systems with Java & Cloud Architecture</small>
-  </p>
-  
-  <p align="center">
-    <a href="mailto:님의이메일@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="님의블로그주소"><img src="https://img.shields.io/badge/Blog-119311?style=flat-square&logo=velog&logoColor=white"/></a>
-    <a href="님의링크드인주소"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  </p>
-  <br/>
-</div> -->
-
-## 🚀 Skills
-#### ▶︎ Backend & Infrastructure
+## 💻 Stack
+<!-- #### ▶︎ Backend & Infrastructure -->
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-</p>
-<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1ㅈㄷ?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-FF4438?&style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-<p>
+  <br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 </p>
 
-#### ▶︎ Full-Stack Capability  
+<!-- #### ▶︎ Full-Stack Capability -->
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-663399?&style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-#### ▶︎ Tools
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dify-0033FF?style=for-the-badge&logo=dify&logoColor=white" />
-</p>
 <br/>
 
-## 💼 Career
-### [ 2025 ]
->2025.10 ~ 2026.04 신한DS 금융 SW 아카데미 <br/>
->2026.04 🥇 신한DS 금융SW 아카데미 최종 프로젝트 <b>최우수상</b> 'My Little Smart-Farm'[🔗](https://www.malifarm.site)
+## 💼 Projects
+- 2026.07 ~ 똑독(강아지 유치원 통합 관리 서비스) [🔗](https://apps.apple.com/kr/app/knockdog/id6754978978)
+- 2025.01 ~ 2026.04 마이리틀스마트팜(토큰증권 플랫폼) [🔗](https://www.malifarm.site)
+
 <br/>
 
-## 📞 Contact
-<p>
-  <a href="mailto:minmj414@naver"><img src="https://img.shields.io/badge/Naver-2DB400?style=flat-square&logo=Naver&logoColor=white"/></a>
-   minmj414@naver.com <br/>
-  <a href="mailto:minssjess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-   minssjess@gmail.com
-</p>
+## 🏅 Awards
+- 2026.04 🥇 신한DS 금융SW 아카데미 최종 프로젝트 <b>최우수상</b>
 
-![Minje's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsjes&theme=github_dark&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsjes)](https://solved.ac/minsjes/)
+<br/>
+
+## 🪪 Certificates
+| Date | Certificate | Issued by |
+| :--- | :--- | :--- |
+| 2025.09 | 정보처리기사 | 한국산업인력공단 |
+| 2025.12 | SQLD (SQL개발자) | 한국데이터산업진흥원 |
+| 2025.08 | JLPT N1 | 국제교류기금 |
+
+<br/>
+
+📧 Email: `minmj414@naver.com` / `minssjess@gmail.com`
+
+<!-- ![Minje's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsjes&theme=github_dark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsjes)](https://solved.ac/minsjes/) -->
 
 
